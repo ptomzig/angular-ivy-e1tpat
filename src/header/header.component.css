@@ -1,0 +1,26 @@
+.header {
+  background-image: url("https://zero-to-mastery.github.io/travel-guide/static/media/BaganMyanmar.3b735d9e.jpg");
+  background-repeat: no-repeat;
+  background-position: 25%, 85%;
+  text-align: center;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  animation: App-logo-spin 20s linear infinite;
+  animation-duration: 20s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-fill-mode: none;
+  animation-play-state: running;
+  animation-name: App-logo-spin;
+}
