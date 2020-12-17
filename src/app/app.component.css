@@ -1,0 +1,12 @@
+p {
+  font-family: Lato;
+}
+
+.withBorder {
+  border: 5px solid yellowgreen;
+}
+
+.header {
+  font-size: 14px;
+  font-weight: bold;
+}
